@@ -76,9 +76,14 @@ p{
    color: #fff;
    font-size: 20px;
    border: 2px solid #fff; 
-   padding: 14px 70px;
+   padding: 14px 60px;
    border-radius: 50px;
    margin-top: 20px;
+}
+
+.content a:hover{
+    color: black;
+    border-color: #140f0f;
 }
 
 .back-video{
