@@ -44,7 +44,7 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-    -webkit-text-stroke: 1.5px #140f0f;
+    color: #140f0f;
 
 }
 
